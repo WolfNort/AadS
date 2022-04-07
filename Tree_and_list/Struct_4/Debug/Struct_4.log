@@ -1,0 +1,5 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl-" на "/GS-"
+  Struct_4.cpp
+C:\Users\User\source\repos\Struct_4\Struct_4\Struct_4.cpp(79,23): warning C4101: cont: неиспользованная локальная переменная
+C:\Users\User\source\repos\Struct_4\Struct_4\Struct_4.cpp(255,7): warning C4101: move: неиспользованная локальная переменная
+  Struct_4.vcxproj -> C:\Users\User\source\repos\Struct_4\Debug\Struct_4.exe
